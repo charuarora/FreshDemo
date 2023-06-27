@@ -1,0 +1,21 @@
+14:18:55.684 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+14:18:55.696 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+14:18:55.696 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+14:20:44.911 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/gp68uoke1arufwrxjzhnuems5vcxl2oemft0bqq2 to view build report, insights, and many more debugging information all at one place!
+
+14:20:45.212 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+14:20:45.213 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+14:23:06.397 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+14:23:06.408 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+14:23:06.408 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+14:24:06.228 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/nf6ulnuisr5j1yz4bewf9wvepgs0nuyn3cq07gc3 to view build report, insights, and many more debugging information all at one place!
+
+14:24:06.514 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+14:24:06.514 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+14:28:39.125 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+14:28:39.134 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+14:28:39.135 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+14:30:05.150 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/mextsdirthcrtcmcz3ajlox3pesuc5sa6pfpndc5 to view build report, insights, and many more debugging information all at one place!
+
+14:30:05.326 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+14:30:05.327 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN

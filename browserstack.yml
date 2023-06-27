@@ -1,0 +1,13 @@
+userName: charuarora_wIBO2W
+accessKey: 97L8pLAq1KJpSWgasagR
+framework: testng
+platforms:
+  - os: Windows
+    osVersion: 10
+    browserName: Chrome
+    browserVersion: latest
+  - os: Windows
+    osVersion: 11
+    browserName: Firefox
+    browserVersion: latest
+ 

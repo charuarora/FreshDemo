@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-21T14:28:42 CET" name="Suite" finished-at="2023-03-21T14:30:04 CET" duration-ms="82519">
+    <groups>
+    </groups>
+    <test started-at="2023-03-21T14:28:42 CET" name="Test-0" finished-at="2023-03-21T14:28:51 CET" duration-ms="9078">
+      <class name="crossBrowser.TestDemo">
+        <test-method signature="titleCheck()[pri:0, instance:crossBrowser.TestDemo@3a095ec0]" started-at="2023-03-21T14:28:42 CET" name="titleCheck" finished-at="2023-03-21T14:28:51 CET" duration-ms="8822" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleCheck -->
+      </class> <!-- crossBrowser.TestDemo -->
+    </test> <!-- Test-0 -->
+    <test started-at="2023-03-21T14:28:51 CET" name="Test1-0" finished-at="2023-03-21T14:29:16 CET" duration-ms="25216">
+      <class name="crossBrowser.TestDemo2">
+        <test-method signature="titleCheck()[pri:0, instance:crossBrowser.TestDemo2@29be7749]" started-at="2023-03-21T14:28:51 CET" name="titleCheck" finished-at="2023-03-21T14:29:16 CET" duration-ms="25118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleCheck -->
+      </class> <!-- crossBrowser.TestDemo2 -->
+    </test> <!-- Test1-0 -->
+    <test started-at="2023-03-21T14:29:16 CET" name="Test1-1" finished-at="2023-03-21T14:30:04 CET" duration-ms="48144">
+      <class name="crossBrowser.TestDemo2">
+        <test-method signature="titleCheck()[pri:0, instance:crossBrowser.TestDemo2@53dfacba]" started-at="2023-03-21T14:29:16 CET" name="titleCheck" finished-at="2023-03-21T14:30:04 CET" duration-ms="47954" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleCheck -->
+      </class> <!-- crossBrowser.TestDemo2 -->
+    </test> <!-- Test1-1 -->
+  </suite> <!-- Suite -->
+</testng-results>
